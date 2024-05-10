@@ -1,6 +1,8 @@
 # RUNNING_INSTRUCTIONS_FOR_OFFLINE_1
 
-**The folder "OFFLINE_1_OPENGL" has to be opened"**
+**Install opengl libraries lglut,lglu and lgl**
+
+**Open the folder "OFFLINE_1_OPENGL"**
 
 **Open Terminal in the folder**
 
